@@ -9,7 +9,7 @@
 ##### name: `javier`
 ##### password: `password123`
 
-#### Login, use `localhost:3000/auth/secret/` 
+#### Test the authentication, use `localhost:3000/auth/secret/` 
 #### Header:
 ##### key: `Authorization`
 ##### value: `Bearer ` + token
