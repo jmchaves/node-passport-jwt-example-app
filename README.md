@@ -1,6 +1,6 @@
 ## node-passport-jwt-example-app
 
-#### 1) Go to the folder project
+#### 1) Go to the project folder
 #### 2) npm install
 #### 3) npm start
 
