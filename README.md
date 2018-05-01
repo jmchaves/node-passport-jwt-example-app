@@ -19,3 +19,5 @@
 Example: 
 
 ![alt text](https://raw.githubusercontent.com/jmchaves/node-passport-jwt-example-app/master/public/images/login.png)
+
+![alt text](https://raw.githubusercontent.com/jmchaves/node-passport-jwt-example-app/master/public/images/success-message.png)
