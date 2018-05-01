@@ -8,7 +8,7 @@
 #### Credentials:
 ##### name: `javier`
 ##### password: `password123`
-* You can use Postman
+- You can use Postman
 
 
 #### Test the authentication, use `localhost:3000/auth/secret/` 
@@ -16,3 +16,6 @@
 ##### key: `Authorization`
 ##### value: `Bearer ` + token
 
+Example: 
+
+![alt text](https://raw.githubusercontent.com/jmchaves/node-passport-jwt-example-app/master/public/images/login.png)
