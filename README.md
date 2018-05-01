@@ -17,7 +17,8 @@
 ##### value: `Bearer ` + token
 
 Example: 
-
+Login:
 ![alt text](https://raw.githubusercontent.com/jmchaves/node-passport-jwt-example-app/master/public/images/login.png)
 
+Get secret message:
 ![alt text](https://raw.githubusercontent.com/jmchaves/node-passport-jwt-example-app/master/public/images/success-message.png)
